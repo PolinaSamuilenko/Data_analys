@@ -14,6 +14,8 @@
 # Двери
 Всего 8 дверей, 2 из них входные и отличаются от межкомнатных по ширине(1010 вместо 910), интересно что при увеличении ширины рабочая площадь у входных дверей меньше. По высоте двери не различаются между собой.
 <img width="920" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/b26c2e61-a28d-4545-b20a-64b92581134f">
+<img width="1043" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/8c2edb2e-6046-4305-af99-ce83bc9794ae">
+
 
 # Стены
 ![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/e8d4d485-a15f-4ba2-b2d8-787d2d75832f)
@@ -26,5 +28,7 @@
 
 
 # Пол и крыша 
+214,7 рабочая площадь пола и 2 одинаковых по рабочей площади (262,4) части кровли.
 ![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/a2a215dc-ee49-4854-b166-7b9ad26e13fd)
+<img width="1043" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/d3469a9d-30f8-452c-886f-065de16d1c1f">
 
