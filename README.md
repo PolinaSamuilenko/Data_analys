@@ -16,9 +16,15 @@
 <img width="920" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/b26c2e61-a28d-4545-b20a-64b92581134f">
 
 # Стены
+![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/e8d4d485-a15f-4ba2-b2d8-787d2d75832f)
 
 # Фурнитура 
+![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/e43f59aa-e3d5-4910-9353-6cbde3146f49)
+![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/c5cbb076-4785-415b-892a-85520a9e28c6)
+
 <img width="1315" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/0187854f-706f-43db-9947-716faeaeed61">
 
 
 # Пол и крыша 
+![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/a2a215dc-ee49-4854-b166-7b9ad26e13fd)
+
