@@ -25,7 +25,7 @@
 
 
 # Фурнитура 
-Предметов мебели 71 шт.Все они  
+Предметов мебели 71 шт. Всего 22 уникальных предмета. 
 ![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/e43f59aa-e3d5-4910-9353-6cbde3146f49)
 ![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/c5cbb076-4785-415b-892a-85520a9e28c6)
 
