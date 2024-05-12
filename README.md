@@ -21,6 +21,8 @@
 Всего 13 стен, из них 4 внешние, больше по ширине (540 вместо 170),делятся на 2 группы по длине ( 22060 и 8960),9 внутренних стен шириной 170. По высоте стены одинаковые, различаются по длине, причем только 2 внутренние стены имеют одинаковую длину. 
 ![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/e8d4d485-a15f-4ba2-b2d8-787d2d75832f)
 <img width="831" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/e6a000bf-f008-4a76-ac56-c2a9c73e777f">
+<img width="559" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/3e9040ea-8092-4ba8-aad2-2f83e3163a55">
+
 
 # Фурнитура 
 Предметов мебели 71 шт.Все они  
@@ -28,6 +30,8 @@
 ![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/c5cbb076-4785-415b-892a-85520a9e28c6)
 
 <img width="1315" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/0187854f-706f-43db-9947-716faeaeed61">
+
+<img width="634" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/6329a634-6b4b-4232-8785-7109248e54d0">
 
 
 # Пол и крыша 
