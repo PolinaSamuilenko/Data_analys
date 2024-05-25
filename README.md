@@ -57,7 +57,24 @@
 ![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/fff9f08e-5573-462f-9311-6fdb9605a70b)
 ![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/bf1d191a-93c8-496f-be6e-2265e842431c)
 ![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/65c75daa-a03f-4527-87b3-0eae2a5e65e3)
+# Крыши
+2 элемента, оба относятся к типу базовая крыша. Из доступных метрик: площадь, объем и толщина, элементы различаются по площади и объему. 
+![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/cc51c461-d486-48a7-b8e8-8b1c04d9e5d9)
 
+# Ограждения
+Всего 8 элементов, часть из них уже знакомые перила лестниц,еще 2 ограждения на крыше здания и 4 на 1 этаже, на окнах и у двери. Различия по размерам (длина) присутствуют только у последней группы, по высоте группа однородна. 
+![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/e9375381-c57e-4017-8dcb-1179276bba8b)
+
+# Навесная стена 
+Данные по витражам представлены сразу в 3 файлах IFCPLATE, IFCMEMBER & IFCCURTAINWALL. В случае IFCPLATE отдельно рассматривается каждая отдельная панель витража,всего 64 шт. Данные сильно варьируются по объему, высоте, ширине и площади, но по каждому из параметров их можно разделить на группе. Наиболее очевидно разделение на 5 групп по высоте.
+В IFCMEMBER лежат данные по оконным профилям, всего 148 строк. Также как и в случае панелей данные сильно варьируют по длине, объему и площади. 
+В IFCCURTAINWALL рассматриваются уже 5 витражей полностью, известна их длина и площадь. Каждый элемент уникален по размерам. 
+
+![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/2199a9dd-d438-450c-b101-309eaf5bcf20)
+
+![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/be3524df-46a1-425b-83b5-30284c50074d)
+
+![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/95ac6b29-5ebe-48b4-9cd2-8c59ad8339a0)
 
 
 
