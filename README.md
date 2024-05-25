@@ -45,9 +45,10 @@
 
 # 2 модель - Жилой двухэтажный дом 
 <img width="1299" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/7c7e29a6-4b69-4d83-8f23-a389b8b70082">
-#Окна 
+
+# Окна
 Всего 23 окна 4 типов: 15 окон Aluminium 6*4,5 - одинаковые по объему и площади, еще 3 окна такого же типа меньшие по площади и объему, 4  маленьких окна ventilator 1,9*2,6 также одинаковые между собой по объему и площади и одно окно (форточка),которое находится не на внешней стене, а внутри прихожей.
-![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/0b7354d9-b04f-4264-9229-af490b98e712)
+<img width="1299" alt="image" src="https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/7eb8668c-13af-4464-a0e0-100dff7925f2">
 # Стены 
 Всего 75 стен, также четырех типов.Сильно варьируются между собой и в группах по длине, объему и площади. 
 ![image](https://github.com/PolinaSamuilenko/Data_analys/assets/158211553/cf6201c6-e926-435a-993f-17027eba9863)
